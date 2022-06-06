@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script type="text/javascript" src="P5_02_quote.js"></script>
+    <link rel="stylesheet" href="P5_03_text.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="bg">
+        <div class="presentation">
+            <h1>Bienvenue sur le générateur de citations</h1>
+            <p class="subpresentation">Il vous est proposé sur ce site de générer aléatoirement une ou plusieurs phrases
+                tirées de deux univers : Star Wars et Marvel. Les citations n'auront pas forcément de sens, mais ce n'est
+                pas le plus important. Vous pouvez choisir un maximum de cinq phrases aléatoires. Il vous suffit simplement 
+                d'appuyer sur le bouton pour lancer la machine !</p>
+        </div>
+        <div class="mid">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 col-sm-12">
+                        <h4>The Dark Side</h4>
+                        <img src="darthvader.jpg" class="vader">
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="quote">
+                            <p id="message"></p>
+                            <p id="message2"></p>
+                            <textarea readonly id="txt" cols="50" rows="5" wrap="hard"></textarea><br />
+                            <button id="button" onClick="again()">Générer de nouvelles citations</button>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <h4>The Avengers</h4>
+                        <img src="captainmarvel.jpg" class="captain">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
