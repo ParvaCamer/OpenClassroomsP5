@@ -1,6 +1,6 @@
 # OpenClassrooms Projet 5 
 
-Projet effectué en HTML / CSS / JS
+Projet écrit en HTML / CSS / JS
 
 ### De quoi ça parle ?
 Un projet effectué avec Openclassrooms. Je devais imaginer un générateur de citations
