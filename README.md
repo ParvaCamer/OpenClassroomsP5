@@ -6,7 +6,7 @@ Projet écrit en HTML / CSS / JS
 Un projet effectué avec Openclassrooms. Je devais imaginer un générateur de citations
 
 ### Lien en ligne du projet :
-- https://parvacamer.github.io/OcrProjet5/
+- https://parvacamer.github.io/OpenClassroomsP5/
 
 ## English version
 
@@ -16,4 +16,4 @@ This project is working with HTML / CSS / JS
 A project requested by my school. I had to imagine a quote generator
 
 ### Project's link : 
-- https://parvacamer.github.io/OcrProjet5/
+- https://parvacamer.github.io/OpenClassroomsP5/
