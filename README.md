@@ -13,7 +13,7 @@ Un projet effectué avec Openclassrooms. Je devais imaginer un générateur de c
 This project is working with HTML / CSS / JS
 
 ### What is it about ?
-A project requested by my school. I had to imagine a quote generator
+A project requested by my bootcamp OpenClassrooms. I had to imagine a quote generator
 
 ### Project's link : 
 - https://parvacamer.github.io/OpenClassroomsP5/
