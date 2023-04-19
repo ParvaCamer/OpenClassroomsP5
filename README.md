@@ -1,6 +1,6 @@
 # OpenClassrooms Projet 5 
 
-Projet écrit en HTML / CSS / JS
+Projet écrit en HTML / Bootstrap / JS
 
 ### De quoi ça parle ?
 Un projet effectué avec Openclassrooms. Je devais imaginer un générateur de citations
@@ -10,7 +10,7 @@ Un projet effectué avec Openclassrooms. Je devais imaginer un générateur de c
 
 ## English version
 
-This project is working with HTML / CSS / JS
+This project is working with HTML / Bootstrap / JS
 
 ### What is it about ?
 A project requested by my bootcamp OpenClassrooms. I had to imagine a quote generator
